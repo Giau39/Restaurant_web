@@ -23,3 +23,8 @@ Web Restaurant is an online restaurant booking and management platform that allo
 ```bash
 git clone https://github.com/your-username/Web-Restaurant.git
 cd Web-Restaurant
+
+#🌎 Image Demo
+![Restaurant Preview](![image](https://github.com/user-attachments/assets/a46acbf9-9b14-4eb1-b240-44eb3a662f71))
+
+
