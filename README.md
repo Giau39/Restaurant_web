@@ -15,7 +15,16 @@ Web Restaurant is an online restaurant booking and management platform that allo
 - **Frontend**: Vue.js (Vue Router, Vuex), Tailwind CSS  
 - **Backend**: Node.js, Express.js, MongoDB, Multer (for image uploads)  
 - **Payment Integration**: Stripe  
-- **Deployment**: Netlify (Frontend), Render/Heroku (Backend)  
+- **Deployment**: Netlify (Frontend), Render/Heroku (Backend)
+  
+##🌎 Image Demo
+![Preview](./client/src/assets/SettingPage.png)
+
+![Preview](./client/src/assets/Homepage.png)
+
+![Preview](./client/src/assets/CartPage.png)
+
+![Preview](./client/src/assets/BillPage.png)
 
 ## 📦 Installation & Setup  
 ### 🔹 Project setup
@@ -29,8 +38,4 @@ npm run serve
 git clone https://github.com/your-username/Web-Restaurant.git
 cd Web-Restaurant
 
-#🌎 Image Demo
-![Preview](./client/src/assets/SettingPage.png)
-![Preview](./client/src/assets/Homepage.png)
-![Preview](./client/src/assets/CartPage.png)
-![Preview](./client/src/assets/BillPage.png)
+
