@@ -30,5 +30,7 @@ git clone https://github.com/your-username/Web-Restaurant.git
 cd Web-Restaurant
 
 #🌎 Image Demo
-![Preview](./client/src/assets/images/your-image.png)
-
+![Preview](./client/src/assets/SettingPage.png)
+![Preview](./client/src/assets/Homepage.png)
+![Preview](./client/src/assets/CartPage.png)
+![Preview](./client/src/assets/BillPage.png)
